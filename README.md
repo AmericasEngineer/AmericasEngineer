@@ -5,6 +5,11 @@
 - 👯 I’m looking to collaborate on React and Vue Projects
 - 💬 Ask me about anything
 - ⚡ Fun fact: I could eat an entire box of pizza 😉
+<div align="center">
+   <img
+        src="https://4.bp.blogspot.com/-Ex7VGxgJcNM/W5Rq2_5L7MI/AAAAAAAFEtQ/AlVEb1VlNZYp3v-O-Enik4S3HLVuK9jhQCLcBGAs/s1600/Dino_non-birthday_version.gif"
+        />
+</div>
 
 
 <!--
