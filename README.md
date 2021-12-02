@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I see you looking... 👀</h1>
 
-![AmericasEngineer's GitHub stats](github-readme-stats-americasengineer-pi.vercel.app/api?username=AmericasEngineer&count_private=true&show_icons=true)
-[![Top Langs](github-readme-stats-americasengineer-pi.vercel.app/api/top-langs/?username=AmericasEngineer&langs_count=10&layout=compact)](https://github.com/AmericasEngineer/github-readme-stats)
+- 🔭 I’m currently working on making healthcare awesome for everyone ❤️ 
+- 🌱 I’m currently learning technical marketing
+- 👯 I’m looking to collaborate on React and Vue Projects
+- 💬 Ask me about anything
+- ⚡ Fun fact: I could eat an entire box of pizza 😉
 
 
 <!--
