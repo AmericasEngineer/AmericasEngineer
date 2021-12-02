@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![AmericasEngineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmericasEngineer&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmericasEngineer)](https://github.com/AmericasEngineer/github-readme-stats)
+
 
 <!--
 **AmericasEngineer/AmericasEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
