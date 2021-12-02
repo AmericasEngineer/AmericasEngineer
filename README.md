@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![AmericasEngineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmericasEngineer&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmericasEngineer&langs_count=10&layout=compact)](https://github.com/AmericasEngineer/github-readme-stats)
+![AmericasEngineer's GitHub stats](github-readme-stats-americasengineer-pi.vercel.app/api?username=AmericasEngineer&count_private=true&show_icons=true)
+[![Top Langs](github-readme-stats-americasengineer-pi.vercel.app/api/top-langs/?username=AmericasEngineer&langs_count=10&layout=compact)](https://github.com/AmericasEngineer/github-readme-stats)
 
 
 <!--
