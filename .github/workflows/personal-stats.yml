@@ -15,7 +15,19 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.calendar.full.svg
+          filename: metrics.plugin.achievements.compact.svg
+          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.plugin.fortune.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_fortune: yes
