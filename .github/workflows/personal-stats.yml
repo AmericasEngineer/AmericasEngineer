@@ -16,7 +16,9 @@ jobs:
         with:
           filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base_hireable: yes
+          base: "header, activity, community, repositories, metadata"
+          repositories_affiliations: "owner, collaborator, organization_member"
           plugin_calendar: yes
           plugin_calendar_limit: 0
   achievements:
@@ -36,3 +38,11 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+  Most-used-languages:
+    needs: achievements
+    uses: lowlighter/metrics@latest
+    with:
+      filename: metrics.plugin.languages.svg
+      token: ${{ secrets.METRICS_TOKEN }}
+      base: ""
+      plugin_languages: yes
