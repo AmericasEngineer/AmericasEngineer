@@ -16,9 +16,11 @@
  <tr align="center">
     <td><b style="font-size:30px">Over All</b></td>
     <td><b style="font-size:30px">Achievements</b></td>
+    <td><b style="font-size:30px">Languages</b></td>
  </tr>
  <tr align="center">
     <td><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></td>
     <td><img align="center" src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="400"></td>
+    <td><img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></td>
  </tr>
 </table>
