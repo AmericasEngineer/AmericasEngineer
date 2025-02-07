@@ -1,5 +1,6 @@
-<div>
-   <h1>Hey! I see you peeking...</h1>
+# I see you peeking...</h1>
+   
+<div align="center">
    <img src="https://i.postimg.cc/5ynbHX3F/a320-1.gif"/>
 </div>
 
